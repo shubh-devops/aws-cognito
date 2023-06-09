@@ -1,0 +1,2 @@
+# aws-cognito
+cognito_terraform_code for_creationofUserpool
